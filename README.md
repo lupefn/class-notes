@@ -5,6 +5,7 @@ Notes for classes that I have taken or am actively taking
 
 - BIO 132, formerly known as BIO 124 - Genetics and Evolution
 - BIO 133, formerly known as BIO 126 - Physiology and Ecology
+- CS 383 - Machine Learning
 
 ## Courses that will have notes uploaded (sometime in the future):
 
